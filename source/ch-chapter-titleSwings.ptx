@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Swings with Friends</title>
+
+  <introduction>
+    <p> In this chapter we will talk about <q>swings</q> and <q>swing sets.</q>
+      Keep in mind that by <em>swings </em> we mean something that has some structure with rope-like 
+    items which allows the person or <term> object </term> to move in the air. Often this is <alert>parabolic</alert>
+     and is of the form <m>f(x,y)=ay^2 </m> or 
+  <me>f(x,y)=x^2 </me>. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section-name.ptx" />
+
+</chapter>
